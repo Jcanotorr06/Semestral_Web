@@ -3,7 +3,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 
 ## Instrucciones
 - ⚠ Añadir links a los documentos y codigo en la seccion de [Vinculos](#vinculos-a-documentos)
-- ⚠ Nombrar los casos de uso y escenarios de acuerdo al esquema acordado. Ej. (CU_001 <Nombre de Caso de Uso>) (ESC_001 <Nombre de Escenario>)
+- ⚠ Nombrar los casos de uso y escenarios de acuerdo a algun esquema especifico. Ej. (CU_001 <Nombre de Caso de Uso>) (ESC_001 <Nombre de Escenario>)
 - ⚠ Mantener documentos separados para facilitar su edicion hasta la entrega
 
 ## Entregables
