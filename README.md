@@ -60,6 +60,16 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [Especificaciones Suplementarias](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Eam22Bh5oktOnVjsopNS4KUBdUW_F6kK529U-I08XXZ6dQ?e=TVV5Vz)
 - ### Especificaciones de Casos de Uso
   1. [CU-001-Registrarse](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EaEjy8HXR0FBoPI7g7ISovMBPeAHpT81r1hcCDhTEUz_Yw?e=19hxH2)
+  2. [CU-002-Iniciar-Sesion](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EbkZtRLIzwFJjRIciJQXrA4BgfEXJbo-Y7iawKWGg1wncg?e=9q0YcH)
+  3. [CU-003-Programar-Cita](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Ee_DnVAQvilIuj3QcYFLPUUBA6j6y47CuEH8j0QCN4iAOw?e=eYjgTh)
+  4. [CU-004-Cancelar-Cita](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EYPod5yYqvlLlDXT-SC-uJABRZNPnRSbL_ws3nstAwzxtw?e=e51Axf)
+  5. [CU-005-Reprogramar-Cita](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EYp06JnxYMhNpb02WwLbVw4BIdcyn2cCWnr5nKGnqW-X8A?e=Vky4ev)
+  6. [CU-006-Consultar-Citas](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Ef6kH_uyMcVEpMyDDi5nMKgBoQhtW1IOoq-9XQhgFtg18w?e=J2aaX0)
+  7. [CU-007-Consultar-Citas-Propias](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EXX3kBolGF5Gkl4wNho9VygB5l-_sc5B5FCqB72qnCkliQ?e=zpTaFK)
+  8. [CU-008-Modificar-Clinicas](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EXw5Y0vknLtIlfpDU8RYnFsBNx0rAjHGiioipBz1YxLKKQ?e=s4Mr5o)
+  9. [CU-009-Modificar-Medicos](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Ef6m9-uZTlxBhNRP0ylqsZMBMvYOPA0Lst1-K6S0IiOlBw?e=BqOyMh)
+  10. [CU-010-Modificar-Especialidades](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EUuwccPEG75Jstbi1KlvtGsB323_8FWY2eoGZzMeznGgbQ?e=drEuiz)
+  11. [CU-011-Notificar-Paciente](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EQJ9CftWpA9CsGnecVuwOVYBv59NWkZqjjcIOsqswdcoKw?e=Untzea)
 
 # Vinculos Utiles
 - [Hosting Gratuito PHP y MySQL](https://es.000webhost.com/)
