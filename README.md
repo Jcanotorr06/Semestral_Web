@@ -58,6 +58,8 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [Perfiles de Usuarios](./personas.pdf)
 - [Diagrama de Casos de Uso](./Diagrama%20Casos%20de%20Uso.pdf)
 - [Especificaciones Suplementarias](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Eam22Bh5oktOnVjsopNS4KUBdUW_F6kK529U-I08XXZ6dQ?e=TVV5Vz)
+- ### Especificaciones de Casos de Uso
+  1. [CU-001-Registrarse](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EaEjy8HXR0FBoPI7g7ISovMBPeAHpT81r1hcCDhTEUz_Yw?e=19hxH2)
 
 # Vinculos Utiles
 - [Hosting Gratuito PHP y MySQL](https://es.000webhost.com/)
