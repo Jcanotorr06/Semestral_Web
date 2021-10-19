@@ -10,9 +10,10 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 ### Parte 1
 - [x] Documento Vision
 - [x] Descripcion de los Perfiles de Usuarios
-- [ ] Especificaciones Suplementarias
+- [x] Diagrama de Casos de Uso
 - [ ] Especificaciones de Casos de Uso
 - [ ] Escenarios de Uso
+- [ ] Especificaciones Suplementarias
 
 ### Parte 2
 - [ ] Estructuracion del Contenido y Explicacion de Escojencia
@@ -54,8 +55,9 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 
 # Vinculos a Documentos
 - [Documento Vision](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EXyv3LgHC1VHj08n3jKab-wBH7Bj_nqRvKQQ3OH76Lm7pQ?e=MUC7Tm)
-- [Especificaciones Suplementarias](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Eam22Bh5oktOnVjsopNS4KUBdUW_F6kK529U-I08XXZ6dQ?e=TVV5Vz)
 - [Perfiles de Usuarios](./personas.pdf)
+- [Diagrama de Casos de Uso](./Diagrama%20Casos%20de%20Uso.pdf)
+- [Especificaciones Suplementarias](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Eam22Bh5oktOnVjsopNS4KUBdUW_F6kK529U-I08XXZ6dQ?e=TVV5Vz)
 
 # Vinculos Utiles
 - [Hosting Gratuito PHP y MySQL](https://es.000webhost.com/)
