@@ -13,7 +13,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [x] Diagrama de Casos de Uso
 - [x] Especificaciones de Casos de Uso
 - [ ] Escenarios de Uso
-- [ ] Especificaciones Suplementarias
+- [x] Especificaciones Suplementarias
 
 ### Parte 2
 - [ ] Estructuracion del Contenido y Explicacion de Escojencia
