@@ -62,7 +62,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
   1. [CU-001-Registrarse](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EaEjy8HXR0FBoPI7g7ISovMBPeAHpT81r1hcCDhTEUz_Yw?e=19hxH2)
   2. [CU-002-Iniciar-Sesion](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EbkZtRLIzwFJjRIciJQXrA4BgfEXJbo-Y7iawKWGg1wncg?e=9q0YcH)
   3. [CU-003-Programar-Cita](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Ee_DnVAQvilIuj3QcYFLPUUBA6j6y47CuEH8j0QCN4iAOw?e=eYjgTh)
-  4. [CU-004-Consultar-Citas](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Ef6kH_uyMcVEpMyDDi5nMKgBoQhtW1IOoq-9XQhgFtg18w?e=J2aaX0) 
+  4. [CU-004-Consultar-Citas](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Ef6kH_uyMcVEpMyDDi5nMKgBoQhtW1IOoq-9XQhgFtg18w?e=J2aaX0) o [CU-004-Consultar-Citas-V2](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EdCD0oQwkI1DqPcwZ-5Bb7MBIUiF42UHWS4b_FHO-M1b5w?e=gwKqJj)
   5. [CU-005-Reprogramar-Cita](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EYp06JnxYMhNpb02WwLbVw4BIdcyn2cCWnr5nKGnqW-X8A?e=Vky4ev)
   6. [CU-006-Cancelar-Cita](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EYPod5yYqvlLlDXT-SC-uJABRZNPnRSbL_ws3nstAwzxtw?e=e51Axf)
   7. [CU-007-Consultar-Citas-Propias](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EXX3kBolGF5Gkl4wNho9VygB5l-_sc5B5FCqB72qnCkliQ?e=zpTaFK)
