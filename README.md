@@ -11,7 +11,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [x] Documento Vision
 - [x] Descripcion de los Perfiles de Usuarios
 - [x] Diagrama de Casos de Uso
-- [ ] Especificaciones de Casos de Uso
+- [x] Especificaciones de Casos de Uso
 - [ ] Escenarios de Uso
 - [ ] Especificaciones Suplementarias
 
