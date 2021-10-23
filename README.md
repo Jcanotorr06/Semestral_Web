@@ -9,7 +9,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 ## Entregables
 ### Parte 1
 - [x] Documento Vision
-- [x] Descripcion de los Perfiles de Usuarios
+- [ ] Descripcion de los Perfiles de Usuarios (Personas)
 - [x] Diagrama de Casos de Uso
 - [x] Especificaciones de Casos de Uso
 - [ ] Escenarios de Uso
