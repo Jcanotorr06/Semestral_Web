@@ -71,7 +71,8 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
   8. [CU-008-Modificar-Medicos](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Ef6m9-uZTlxBhNRP0ylqsZMBMvYOPA0Lst1-K6S0IiOlBw?e=BqOyMh)
   9. [CU-009-Modificar-Especialidades](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EUuwccPEG75Jstbi1KlvtGsB323_8FWY2eoGZzMeznGgbQ?e=drEuiz)
   10. [CU-010-Notificar-Paciente](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EQJ9CftWpA9CsGnecVuwOVYBv59NWkZqjjcIOsqswdcoKw?e=Untzea)
-- [Mapa Mental](./mapa%20mental.png) / [Editar](https://www.mindmeister.com/2068940642?t=FzrXgtzXU0#)
+- ### [Diseño de la Interfaz Web](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EcAPgJ3hrvxBuORECS8MwAABWmQk6rBBAEZhgfF_46-shg?e=AcgROB)
+  1. [Mapa Mental](./mapa%20mental.png) / [Editar](https://www.mindmeister.com/2068940642?t=FzrXgtzXU0#)
 # Vinculos Utiles
 - [Hosting Gratuito PHP y MySQL](https://es.000webhost.com/)
 - [Card Sorting](https://www.optimalworkshop.com/)
