@@ -21,7 +21,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [x] Explicación de Escogencia del Modelo de Estructuracion del Contenido
 - [ ] Escojencia y Explicacion Sobre Tipo de Navegacion a Usar
 - [ ] Mapa del Sitio
-- [ ] Diagrama de Mapa del Sitio
+- [x] Diagrama de Mapa del Sitio
 - [ ] Wireframe
 
 ### Parte 3
