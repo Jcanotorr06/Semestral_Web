@@ -17,7 +17,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 
 ### Parte 2
 - [x] Mapa Mental
-- [ ] Card Sorting
+- [x] Card Sorting
 - [ ] Explicación de Escogencia del Modelo de Estructuracion del Contenido
 - [ ] Escojencia y Explicacion Sobre Tipo de Navegacion a Usar
 - [ ] Mapa del Sitio
@@ -73,6 +73,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
   10. [CU-010-Notificar-Paciente](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EQJ9CftWpA9CsGnecVuwOVYBv59NWkZqjjcIOsqswdcoKw?e=Untzea)
 - ### [Diseño de la Interfaz Web](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EcAPgJ3hrvxBuORECS8MwAABWmQk6rBBAEZhgfF_46-shg?e=AcgROB)
   1. [Mapa Mental](./mapa%20mental.png) / [Editar](https://www.mindmeister.com/2068940642?t=FzrXgtzXU0#)
+  2. [Card Sorting](./Card%20Sorting.jpg) / [Probar](https://study.uxtweak.com/cardsort/preview/izZCEXH9JLXw9TEt9RvdH/TrHzOS3LhzRwIMq1ER8f9)
 # Vinculos Utiles
 - [Hosting Gratuito PHP y MySQL](https://es.000webhost.com/)
 - [Card Sorting](https://www.optimalworkshop.com/)
