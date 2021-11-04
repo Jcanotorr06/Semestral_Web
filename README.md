@@ -23,7 +23,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [x] Mapa del Sitio
 - [x] Diagrama de Mapa del Sitio
 - [x] Wireframe
-- [ ] Prueba con 1 Usuario  
+- [ ] Prueba del prototipo con 1 Usuario  
 
 ### Parte 3
 - [ ] Diagrama de Clases
