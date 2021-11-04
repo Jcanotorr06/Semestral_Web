@@ -20,9 +20,10 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [x] Card Sorting
 - [x] Explicación de Escogencia del Modelo de Estructuracion del Contenido
 - [x] Escojencia y Explicacion Sobre Tipo de Navegacion a Usar
-- [ ] Mapa del Sitio
+- [x] Mapa del Sitio
 - [x] Diagrama de Mapa del Sitio
-- [ ] Wireframe
+- [x] Wireframe
+- [ ] Prueba con 1 Usuario  
 
 ### Parte 3
 - [ ] Diagrama de Clases
