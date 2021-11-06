@@ -73,6 +73,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
   9. [CU-009-Modificar-Especialidades](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EUuwccPEG75Jstbi1KlvtGsB323_8FWY2eoGZzMeznGgbQ?e=drEuiz)
   10. [CU-010-Modificar-Pacientes](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/ETQ6c3Iy8kBJr8roEmwpWYMBtxQyFISq0-WRu3UE9ARUcQ?e=desOQc)
   11. [CU-011-Notificar-Paciente](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EQJ9CftWpA9CsGnecVuwOVYBv59NWkZqjjcIOsqswdcoKw?e=Untzea)
+  12. [CU-012-Cerrar-Sesión](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EYPod5yYqvlLlDXT-SC-uJABRZNPnRSbL_ws3nstAwzxtw?e=dJW8rt)
 - ### [Diseño de la Interfaz Web](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EcAPgJ3hrvxBuORECS8MwAABWmQk6rBBAEZhgfF_46-shg?e=AcgROB)
   1. [Mapa Mental](./mapa%20mental.png) / [Editar](https://www.mindmeister.com/2068940642?t=FzrXgtzXU0#)
   2. [Card Sorting](./Card%20Sorting.jpg) / [Probar](https://study.uxtweak.com/cardsort/preview/izZCEXH9JLXw9TEt9RvdH/TrHzOS3LhzRwIMq1ER8f9)
