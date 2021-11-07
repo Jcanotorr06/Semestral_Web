@@ -23,7 +23,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [x] Mapa del Sitio
 - [x] Diagrama de Mapa del Sitio
 - [x] Wireframe
-- [ ] Prueba del prototipo con 1 Usuario  
+- [x] Prueba del prototipo con 1 Usuario  
 
 ### Parte 3
 - [ ] Diagrama de Clases
@@ -57,31 +57,8 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [ ] Manual de Usuario
 
 # Vinculos a Documentos
-- [Documento Vision](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EXyv3LgHC1VHj08n3jKab-wBH7Bj_nqRvKQQ3OH76Lm7pQ?e=MUC7Tm)
-- [Perfiles de Usuarios](./personas.pdf)
-- [Diagrama de Casos de Uso](./Diagrama%20Casos%20de%20Uso.pdf)
-- [Especificaciones Suplementarias](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Eam22Bh5oktOnVjsopNS4KUBdUW_F6kK529U-I08XXZ6dQ?e=TVV5Vz)
-- ### Especificaciones de Casos de Uso
-  1. [CU-001-Registrarse](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EaEjy8HXR0FBoPI7g7ISovMBPeAHpT81r1hcCDhTEUz_Yw?e=19hxH2)
-  2. [CU-002-Iniciar-Sesion](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EbkZtRLIzwFJjRIciJQXrA4BgfEXJbo-Y7iawKWGg1wncg?e=9q0YcH)
-  3. [CU-003-Programar-Cita](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Ee_DnVAQvilIuj3QcYFLPUUBA6j6y47CuEH8j0QCN4iAOw?e=eYjgTh)
-  4. [CU-004-Consultar-Citas-V2](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EdCD0oQwkI1DqPcwZ-5Bb7MBIUiF42UHWS4b_FHO-M1b5w?e=gwKqJj)
-  5. [CU-005-Reprogramar-Cita](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EYp06JnxYMhNpb02WwLbVw4BIdcyn2cCWnr5nKGnqW-X8A?e=Vky4ev)
-  6. [CU-006-Cancelar-Cita](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EYPod5yYqvlLlDXT-SC-uJABRZNPnRSbL_ws3nstAwzxtw?e=e51Axf)
-  7. [CU-007-Modificar-Clinicas](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EXw5Y0vknLtIlfpDU8RYnFsBNx0rAjHGiioipBz1YxLKKQ?e=s4Mr5o)
-  8. [CU-008-Modificar-Medicos](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/Ef6m9-uZTlxBhNRP0ylqsZMBMvYOPA0Lst1-K6S0IiOlBw?e=BqOyMh)
-  9. [CU-009-Modificar-Especialidades](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EUuwccPEG75Jstbi1KlvtGsB323_8FWY2eoGZzMeznGgbQ?e=drEuiz)
-  10. [CU-010-Modificar-Pacientes](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/ETQ6c3Iy8kBJr8roEmwpWYMBtxQyFISq0-WRu3UE9ARUcQ?e=desOQc)
-  11. [CU-011-Notificar-Paciente](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EQJ9CftWpA9CsGnecVuwOVYBv59NWkZqjjcIOsqswdcoKw?e=Untzea)
-  12. [CU-012-Cerrar-Sesión](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EbzoYszLbItJt8nMIDzBr1EBIntABZ2YC44NyoIjlK1SNQ?e=abVcm5)
-- ### [Diseño de la Interfaz Web](https://utpac-my.sharepoint.com/:w:/g/personal/joseph_cano_utp_ac_pa/EcAPgJ3hrvxBuORECS8MwAABWmQk6rBBAEZhgfF_46-shg?e=AcgROB)
-  1. [Mapa Mental](./mapa%20mental.png) / [Editar](https://www.mindmeister.com/2068940642?t=FzrXgtzXU0#)
-  2. [Card Sorting](./Card%20Sorting.jpg) / [Probar](https://study.uxtweak.com/cardsort/preview/izZCEXH9JLXw9TEt9RvdH/TrHzOS3LhzRwIMq1ER8f9)
-  3. [Diagrama de Mapa del Sitio](./Diagrama%20de%20Mapa%20del%20Sitio.png) / [Editar](https://lucid.app/lucidchart/99f4ac4b-77e4-466a-a2d2-dd10ce80678d/edit?viewport_loc=63%2C-505%2C4039%2C1801%2C0_0&invitationId=inv_ca3b5e5f-2f68-455b-9216-1ba6081f1dd0)
-  4. [Wireframe en Figma](https://www.figma.com/file/z5sjQgmk4Q2ym3642jrpIu/Plataforma-Web-CSS?node-id=0%3A1)
-  5. [Cuestionario Previo a la Prueba](https://docs.google.com/forms/d/1D1n86uMpvO_WQgpmkV4PVjWy5w9IoTeBx4KTo-J8h9k/edit?usp=sharing)
-  6. [Video de la Prueba de Usabilidad](https://utpac-my.sharepoint.com/personal/guillermo_nunez_utp_ac_pa/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fguillermo%5Fnunez%5Futp%5Fac%5Fpa%2FDocuments%2FDatos%20adjuntos%2FPrototipo%2Emp4&parent=%2Fpersonal%2Fguillermo%5Fnunez%5Futp%5Fac%5Fpa%2FDocuments%2FDatos%20adjuntos)
-  7. [Cuestionario Posterior a la Prueba](https://docs.google.com/forms/d/1ZDjnjDZP0ReqYKnwRjNjxt96SokYPITJxEyNoN-woTg/edit?usp=sharing)
+- [Parte-1](./Parte%201/README.md)
+- [Parte-2](./Parte%202/README.md)
 # Vinculos Utiles
 - [Hosting Gratuito PHP y MySQL](https://es.000webhost.com/)
 - [Card Sorting](https://www.optimalworkshop.com/)
