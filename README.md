@@ -26,17 +26,16 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [x] Prueba del prototipo con 1 Usuario  
 
 ### Parte 3
-- [ ] Diagrama de Clases
-- [ ] Modelo de Navegacion
-- [ ] Diagrama de Actividades
-- [ ] Diagrama de Clases-Procesos
-- [ ] Vista Fisica
-- [ ] Diagrama E/R de la BD
+- [x] Diagrama de Clases
+- [x] Modelo de Navegacion
+- [x] Diagrama de Actividades
+- [x] Diagrama de Clases-Procesos
+- [x] Vista Fisica
+- [x] Diagrama E/R de la BD
 
 ### Parte 4
-- [ ] Wireframe Avanzado
 - [ ] Archivos HTML y CSS
-- [ ] Diseño Responsive con Buena Usabilidad
+- [ ] Diseño Responsive con Buena Usabilidad Aplicando los Principios de HCI
 
 ### Parte 5
 - [ ] Backend Funcinal
