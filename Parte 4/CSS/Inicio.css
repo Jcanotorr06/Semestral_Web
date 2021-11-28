@@ -1,0 +1,71 @@
+.header{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-form{
+    margin-top: 5%;
+   
+}
+
+.titulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulocitas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtitulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+tr:not(.no-hover):hover {
+    background-color: blue;
+}
+
+.modal-header{
+    background-color: rgb(10, 10, 70);
+}
+
+.opciones{
+    width: 200px;
+}
+
+@media screen and (min-width: 768px) {
+    .tabladecitas{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+}
+
+
+
+
+
