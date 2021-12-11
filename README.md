@@ -64,6 +64,7 @@ Lineamientos, objetivos y documentos para el semestral de ingenieria web
 - [Parte-6](./Parte%206/README.md)
 - [Parte-7](./Parte%207/README.md)
 - [Parte-8](./Parte%208/README.md)
+- [Co-Evaluacion/Auto Evaluacion)(https://utpac-my.sharepoint.com/:w:/g/personal/irving_villarreal1_utp_ac_pa/EW2A1HVmJbhIiXNB8N-BXP8BlmJ8unslSW1bQcKGOCf71A?e=Cv3PDX)
 # Vinculos Utiles
 - [Hosting Gratuito PHP y MySQL](https://es.000webhost.com/)
 - [Card Sorting](https://www.optimalworkshop.com/)
